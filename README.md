@@ -2,7 +2,7 @@
 
 Analysis code for the manuscript:
 
-> Olteanu P-I, Hayati S, van Gelder MMHJ, Nordeng H. *Regional, socioeconomic, and immigration-related variation in gestational diabetes in Norway - a nationwide registry-based study, 2018–2023.* Submitted to the International Journal of Epidemiology.
+> Olteanu P-I, Hayati S, van Gelder MMHJ, Nordeng H. *Regional, socioeconomic, and immigration-related variation in gestational diabetes in Norway - a nationwide registry-based study, 2018–2023.*
 
 This repository contains the R scripts used to build the study cohort, define gestational diabetes mellitus (GDM), and run the analyses reported in the main text and the Supplementary Material. The scripts are cleaned versions of the code used for the paper. We reorganised them in the order of the analysis and added comments. Variable names were changed to descriptive names, and file paths were removed.
 
